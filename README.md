@@ -22,6 +22,12 @@ by direct function call & by dlopen call.
 
 output:
 ```
+mylib loaded 
 I'm in main
 2
+handle1 = 2439537088
+handle2 = 2439537088
+3
+4
+mylib unload 
 ```
